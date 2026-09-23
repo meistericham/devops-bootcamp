@@ -1,0 +1,3 @@
+nameserver: arnold.ns.cloudflare.com, heather.ns.cloudflare.com
+portfolio: meistericham.pages.dev / meistericham.github.io
+private-site: private.meistericham.com
