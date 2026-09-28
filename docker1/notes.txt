@@ -1,0 +1,10 @@
+Docker version 29.8.1, build 4a63305
+
+Image:
+bharathshetty4/supermario
+
+Container:
+name: web
+status: running
+port: 80:8080
+public-ip: 18.140.243.167
