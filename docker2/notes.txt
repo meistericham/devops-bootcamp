@@ -1,0 +1,9 @@
+IMAGE              ID             DISK USAGE   CONTENT SIZE   EXTRA
+devops-app:multi   08a82e2ac2b4        104MB         31.5MB   U    
+
+EC2 deployment:
+image: devops-app:multi
+container: devops-multi
+host-port: 80
+container-port: 80
+public-ip: 3.1.51.133
