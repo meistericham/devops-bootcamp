@@ -1,0 +1,9 @@
+640031441539.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/meistericham:kecil   3da3cde9c3b2        104MB         31.5MB   U    
+NETWORK ID     NAME      DRIVER    SCOPE
+06ffa25db5d6   arena     bridge    local
+daa1f8fe8075   bridge    bridge    local
+12d88fcea7b5   host      host      local
+23ac7787aae0   none      null      local
+DRIVER    VOLUME NAME
+local     lms-sebuyau-pgdata
+local     me
